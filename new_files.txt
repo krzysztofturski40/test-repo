@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Absolutly new files
 
 First change.
 
 Secend change.
+=======
+Absolutly new files.
+
+First adding in this branche.
+>>>>>>> Version-2
